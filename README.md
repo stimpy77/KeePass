@@ -1,10 +1,12 @@
-![KeePass Icon](trans.png)
+<div align="center">
+  <img src="keepass_logo.png" alt="KeePass Logo" style="float:left; padding: 0 10px 10px 0;" />
+</div>
 
 # ⚠️ NOTICE ⚠️
 
 > **This repository was created on 2025-04-18 by Jon Davis ([stimpy77](https://github.com/stimpy77)) as a downloaded snapshot of KeePass v2.58 source from the official zip archive.**
 > 
-> The icon `trans.png` was downloaded from the KeePass website.
+> The icon `keepass_logo.png` was extracted from the official KeePass website sprite.
 
 ---
 
