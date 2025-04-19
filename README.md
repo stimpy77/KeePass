@@ -1,10 +1,17 @@
-<img src="keepass_logo.png" alt="KeePass Logo" style="float:left; padding: 0 10px 10px 0;" />
-
-# ⚠️ NOTICE ⚠️
-
-> **This repository was created on 2025-04-18 by Jon Davis ([stimpy77](https://github.com/stimpy77)) as a downloaded snapshot of KeePass v2.58 source from the official zip archive.**
-> 
-> The icon `keepass_logo.png` was extracted from the official KeePass website sprite.
+<table>
+<tr>
+<td width="120">
+  <img src="keepass_logo.png" alt="KeePass Logo" width="100"/>
+</td>
+<td>
+  <h2>⚠️ NOTICE ⚠️</h2>
+  <blockquote>
+    <strong>This repository was created on 2025-04-18 by Jon Davis (<a href="https://github.com/stimpy77">stimpy77</a>) as a downloaded snapshot of KeePass v2.58 source from the official zip archive.</strong><br>
+    The icon <code>keepass_logo.png</code> was extracted from the official KeePass website sprite.
+  </blockquote>
+</td>
+</tr>
+</table>
 
 ---
 
