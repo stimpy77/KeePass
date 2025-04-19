@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="keepass_logo.png" alt="KeePass Logo" style="float:left; padding: 0 10px 10px 0;" />
-</div>
+<img src="keepass_logo.png" alt="KeePass Logo" style="float:left; padding: 0 10px 10px 0;" />
 
 # ⚠️ NOTICE ⚠️
 
